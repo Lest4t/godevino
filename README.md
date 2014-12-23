@@ -1,11 +1,11 @@
 ## GoDevino library
 
-GoDevino library for api site http://devinitele.com
+GoDevino library for api site http://devinotele.com
 
 ###Installation:
 
 ```bash
-go get github.com/BurntSushi/toml
+go get github.com/maximal/godevino
 ```
 
 ### Examples
